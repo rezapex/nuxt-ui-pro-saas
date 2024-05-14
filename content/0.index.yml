@@ -1,0 +1,126 @@
+title: RideHealthy - Centralized NEMT Software System
+description: RideHealthy is a comprehensive software solution that streamlines operations and enhances the customer experience for Non-Emergency Medical Transportation (NEMT) providers.
+navigation: false
+hero:
+  title: RideHealthy Streamline your NEMT operations
+  description: RideHealthy is a powerful, all-in-one software system designed to optimize efficiency, ensure compliance, and deliver exceptional service for NEMT providers.
+  headline:
+    label: Powered by cutting-edge technology
+    to: https://ridehealthy.com/technology
+    icon: i-heroicons-arrow-top-right-on-square-20-solid
+  links:
+    - label: Get started
+      to: '/signup'
+      size: xl
+      color: black
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+    - label: Request a demo
+      icon: i-simple-icons-calendar
+      size: xl
+      color: gray
+      to: https://ridehealthy.com/demo
+      target: _blank
+sections:
+  - title: Empowering NEMT providers
+    description: RideHealthy offers a comprehensive suite of features designed to streamline your NEMT operations, ensure compliance, and deliver exceptional patient experiences.
+    id: features
+    align: left
+    features:
+      - name: Real-time tracking
+        description: Monitor vehicle locations and trip progress in real-time for enhanced visibility and control.
+        icon: i-heroicons-map
+      - name: Automated scheduling
+        description: Optimize routes and reduce wait times with intelligent, automated scheduling and dispatching.
+        icon: i-heroicons-calendar
+      - name: Compliance management
+        description: Ensure adherence to healthcare regulations with built-in compliance tools and documentation.
+        icon: i-heroicons-clipboard-check
+    links:
+      - label: Explore features
+        to: /features
+        color: gray
+        icon: i-heroicons-arrow-right-20-solid
+        trailing: true
+        size: md
+        class: ml-8
+  - title: Elevate your patient experience
+    description: With RideHealthy, you can provide a seamless, patient-centric transportation experience that improves satisfaction and outcomes.
+    align: right
+    features:
+      - name: User-friendly booking
+        description: Enable patients to easily book rides through a intuitive mobile app and web portal.
+        icon: i-heroicons-device-mobile
+      - name: Real-time updates
+        description: Keep patients informed with real-time trip updates, driver information, and arrival notifications.
+        icon: i-heroicons-bell
+      - name: Accessibility features
+        description: Ensure access for all with built-in accessibility features and support for diverse needs.
+        icon: i-heroicons-hand
+    links:
+      - label: Learn more
+        to: /patient-experience
+        color: gray
+        icon: i-heroicons-arrow-right-20-solid
+        trailing: true
+        size: md
+        class: ml-8
+features:
+  title: Why choose RideHealthy?
+  description: RideHealthy is designed to address the unique challenges faced by NEMT providers, empowering you to deliver exceptional service and drive better outcomes.
+  items:
+    - title: AI-driven insights
+      description: Gain valuable insights and make data-driven decisions with AI-powered analytics and reporting features.
+      icon: i-heroicons-chart-pie
+    - title: Boost efficiency
+      description: Streamline operations with automated scheduling, real-time tracking, and optimization tools.
+      icon: i-heroicons-cog-6-tooth
+    - title: Ensure compliance
+      description: Stay compliant with healthcare regulations using built-in documentation and reporting features.
+      icon: i-heroicons-shield-check
+    - title: Enhance patient experience
+      description: Provide a seamless, patient-centric transportation experience with user-friendly booking and real-time updates.
+      icon: i-heroicons-heart
+    - title: Drive innovation
+      description: Leverage cutting-edge technologies like AI and machine learning to optimize routes, predict demand, and improve outcomes.
+      icon: i-heroicons-light-bulb
+    - title: Reduce costs
+      description: Optimize resource utilization, reduce manual processes, and minimize no-shows to lower operational costs.
+      icon: i-heroicons-currency-dollar
+    - title: Scale with ease
+      description: Easily adapt to growing demand and expand your services with a scalable, cloud-based platform.
+      icon: i-heroicons-chart-bar
+testimonials:
+  headline: Testimonials
+  title: What our customers are saying
+  description: See how RideHealthy has transformed NEMT operations and enhanced patient experiences for our customers.
+  items:
+    - quote: RideHealthy has revolutionized our NEMT operations. The real-time tracking and automated scheduling have significantly improved our efficiency and reduced costs. Our patients love the user-friendly booking experience and timely updates.
+      author:
+        name: Sarah Thompson
+        description: CEO at MediTrans
+        avatar:
+          src: https://i.pravatar.cc/120?img=1
+          loading: lazy
+    - quote: Since implementing RideHealthy, we've seen a dramatic improvement in our compliance and documentation processes. The platform makes it easy to stay on top of regulations and ensures we have all the necessary records readily available.
+      author:
+        name: Michael Rodriguez
+        description: Operations Manager at CareRide
+        avatar:
+          src: https://i.pravatar.cc/120?img=7
+          loading: lazy
+    - quote: RideHealthy has been a game-changer for our organization. The AI-powered optimization and demand forecasting have allowed us to allocate resources more effectively and provide a higher level of service to our patients.
+      author:
+        name: Emily Davis
+        description: CTO at TransportHealth
+        avatar:
+          src: https://i.pravatar.cc/120?img=5
+          loading: lazy
+cta:
+  title: Transform your NEMT operations today
+  description: Ready to streamline your workflows, ensure compliance, and deliver exceptional patient experiences? Get started with RideHealthy now.
+  links:
+    - label: Request a demo
+      size: xl
+      color: black
+      to: /demo
